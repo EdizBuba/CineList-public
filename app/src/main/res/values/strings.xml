@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CineList</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="demo_notice">Archive pédagogique — mode démonstration sans compte. Aucun identifiant ni mot de passe ne vous sera demandé.</string>
+    <string name="demo_continue">Explorer la démonstration</string>
+</resources>
